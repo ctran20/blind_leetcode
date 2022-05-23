@@ -1,2 +1,2 @@
 # blind_leetcode
- Practicing leetcode
+ Practicing Leetcode in Python and C++
